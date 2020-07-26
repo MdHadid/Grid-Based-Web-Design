@@ -1,1 +1,0 @@
-This is mobile responsive grid based web design with html5 & css3.
